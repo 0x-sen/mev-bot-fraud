@@ -1,5 +1,6 @@
 # mev-bot-fraud
-be careful the fake mev-bot codes 
+
+Be careful for the fake mev-bot codes 
 
 本来想研究一下 mevbot 的，没想到发现一个骗局，所以想提醒一下大家以免被骗了，很多类似这个项目https://github.com/KayExpertbots/Mevbot 的假脚本都是诈骗的
 
