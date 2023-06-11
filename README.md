@@ -52,3 +52,10 @@ These are all lies so just a reminder, you can also help to light up the stars, 
 
 <img width="1360" alt="image" src="https://github.com/chunsenye/mev-bot-fraud/assets/30768615/b87707ad-ae0c-4d49-892c-a54af47947d2">
 
+我把一些案例放在了 issue 里面 
+
+
+[Fraud account list -- 【诈骗账号】](https://link-url-here.org](https://github.com/chunsenye/mev-bot-fraud/issues/2)
+
+[List of Fraud projects - 【诈骗项目列表】](https://link-url-here.org](https://github.com/chunsenye/mev-bot-fraud/issues/1)
+
