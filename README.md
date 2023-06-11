@@ -55,7 +55,7 @@ These are all lies so just a reminder, you can also help to light up the stars, 
 我把一些案例放在了 issue 里面 
 
 
-[诈骗账号](https://link-url-here.org](https://github.com/chunsenye/mev-bot-fraud/issues/2)
+[诈骗账号](https://github.com/chunsenye/mev-bot-fraud/issues/2)
 
-[诈骗项目列表](https://link-url-here.org](https://github.com/chunsenye/mev-bot-fraud/issues/1)
+[诈骗项目列表](https://github.com/chunsenye/mev-bot-fraud/issues/1)
 
