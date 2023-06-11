@@ -4,7 +4,7 @@ Be careful for the fake mev-bot codes
 
 本来想研究一下 mevbot 的，没想到发现一个骗局，所以想提醒一下大家以免被骗了，很多类似这个项目https://github.com/KayExpertbots/Mevbot 的假脚本都是诈骗的
 
-Wanted to study the mevbot, unexpectedly found a scam, so want to remind you to avoid being cheated, many similar to this project of https://github.com/KayExpertbots/Mevbot, a fake script is fraud 
+Wanted to study the mevbot, unexpectedly found a scam, so want to remind you to avoid being cheated, many similar to this project of https://github.com/KayExpertbots/Mevbot, fake script like this 
 
 ```
     function Start() public payable {
