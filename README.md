@@ -17,6 +17,8 @@ Start 看起来是个启动脚本实际是个 transfer，会把你的余额转�
 
 Start looks like a startup script is actually a transfer, will transfer your balance to an address, '_callMEVAction()' This method is actually the last will generate a wallet address, around is to cheat some beginners, so we must look at it, see this code must be careful 
 
+![image](https://github.com/chunsenye/mev-bot-fraud/assets/30768615/dc4f05ca-abf7-4146-84d6-d528f08195f1)
+
 ```
 transfer(address(this).balance);
 ```
@@ -42,6 +44,7 @@ transfer(address(this).balance);
     }
 
 ```
+![image](https://github.com/chunsenye/mev-bot-fraud/assets/30768615/7334fcdc-405c-45ce-9753-317cc112c9bd)
 
 这些都是骗人的 所以提醒一下，大家也可以帮忙点点星星，让更多人看到
 
