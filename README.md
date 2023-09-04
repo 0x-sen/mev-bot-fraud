@@ -2,8 +2,6 @@
 
 Be careful for the fake mev-bot codes 
 
-本来想研究一下 mevbot 的，没想到发现一个骗局，所以想提醒一下大家以免被骗了，很多类似这个项目https://github.com/KayExpertbots/Mevbot 的假脚本都是诈骗的
-
 Wanted to study the mevbot, unexpectedly found a scam, so want to remind you to avoid being cheated, many similar to this project of https://github.com/KayExpertbots/Mevbot, fake script like this 
 
 ```
@@ -13,8 +11,6 @@ Wanted to study the mevbot, unexpectedly found a scam, so want to remind you to 
     }
 
 ```
-
-Start 看起来是个启动脚本实际是个 transfer，会把你的余额转到一个地址，`_callMEVAction()` 这个方法其实最后就是会生成一个钱包地址，绕来绕去的就是想骗一些新手，所以大家一定要看好了，看到这样的代码一定要小心了
 
 Start looks like a startup script is actually a transfer, will transfer your balance to an address, '_callMEVAction()' This method is actually the last will generate a wallet address, around is to cheat some beginners, so we must look at it, see this code must be careful 
 
@@ -47,13 +43,10 @@ transfer(address(this).balance);
 ```
 ![image](https://github.com/chunsenye/mev-bot-fraud/assets/30768615/7334fcdc-405c-45ce-9753-317cc112c9bd)
 
-这些都是骗人的 所以提醒一下，大家也可以帮忙点点星星，让更多人看到
 
 These are all lies so just a reminder, you can also help to light up the stars, so that more people can see 
 
 <img width="1360" alt="image" src="https://github.com/chunsenye/mev-bot-fraud/assets/30768615/b87707ad-ae0c-4d49-892c-a54af47947d2">
-
-我把一些案例放在了 issue 里面 
 
 
 [Fraud account list -- 【诈骗账号】](https://github.com/chunsenye/mev-bot-fraud/issues/2)
